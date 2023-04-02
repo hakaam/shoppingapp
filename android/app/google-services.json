@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "386338936589",
+    "project_id": "whatsapp-34a88",
+    "storage_bucket": "whatsapp-34a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386338936589:android:48bdede97138e43eaa0244",
+        "android_client_info": {
+          "package_name": "com.example.shoping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386338936589-brobpbd2m68fcjuapkm6visfbrgrjnja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5O_rBBOIenH1sN_tb1Zh5S8s8j-L30e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386338936589-brobpbd2m68fcjuapkm6visfbrgrjnja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386338936589-kaft0rme57nuhoh92u0h2bra8s336l3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whstappapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
