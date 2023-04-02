@@ -1,5 +1,5 @@
 # shoping_app
-![Image1](Image1.JPG)
+![Image1](shoppingapp/image6.jpg)
 ![Image2](Image2.JPG)
 ![Image3](Image3.JPG)
 ![Image4](Image4.JPG)
