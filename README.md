@@ -1,12 +1,6 @@
 # shoping_app
-![Image1](shoppingapp/image6.jpg)
-![Image2](Image2.JPG)
-![Image3](Image3.JPG)
-![Image4](Image4.JPG)
-![Image5](Image5.JPG)
-![Image6](Image6.JPG)
-![Image7](Image7.JPG)
-![Image8](Image8.JPG)
+![Image1](Image1.jpg)
+
 A new Flutter project.
 
 ## Getting Started
